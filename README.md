@@ -1,6 +1,3 @@
-Sure! Below is a sample `README.md` for your sentiment analysis project using TensorFlow and Keras:
-
----
 
 # Sentiment Analysis with TensorFlow and Keras
 
