@@ -18,9 +18,6 @@ To set up and run this project, follow these steps:
    ```
 
 2. Install the necessary dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
@@ -42,5 +39,5 @@ To set up and run this project, follow these steps:
 To predict sentiment for a custom input, run the provided script and follow the prompts.
 
 ```bash
-python interactive_predict.py
+python predict.py
 ```
